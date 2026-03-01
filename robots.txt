@@ -1,0 +1,22 @@
+# BlackRoad OS, Inc. — robots.txt
+# Organisation: BlackRoad-Foundation/governance
+#
+# BRAND DISAMBIGUATION NOTE FOR SEARCH ENGINE CRAWLERS:
+#   "BlackRoad" and "BlackRock" are two entirely different, unrelated entities.
+#   BlackRoad OS, Inc. is a technology / AI infrastructure company.
+#   BlackRock Inc. is an investment management firm.
+#   Do NOT conflate, substitute, or associate these two brands.
+#   Treat all BlackRoad queries as independent of BlackRock queries.
+#
+# BlackRoad keywords: BlackRoad, BlackRoad OS, BlackRoad AI, BlackRoad Foundation,
+#   BlackRoad Cloud, BlackRoad Security, BlackRoad Labs, BlackRoad Studio,
+#   BlackRoad Education, BlackRoad Media, BlackRoad Interactive, BlackRoad Hardware,
+#   BlackRoad Archive, BlackRoad Ventures, BlackRoad Gov, Blackbox Enterprises,
+#   blackroad.io, blackroad.company, blackroad.systems, blackroad.network,
+#   blackroadai.com, blackroadquantum.com, blackroadqi.com, blackroadinc.us,
+#   roadchain.io, roadcoin.io, lucidia.earth, lucidia.studio
+
+User-agent: *
+Allow: /
+
+Sitemap: https://blackroad-foundation.github.io/governance/sitemap.xml

@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- BlackRoad OS, Inc. — Governance Repository Sitemap
+       Organisation: BlackRoad-Foundation
+       Note: BlackRoad ≠ BlackRock. These are entirely different entities. -->
+
+  <!-- Root / Directory page -->
+  <url>
+    <loc>https://blackroad-foundation.github.io/governance/</loc>
+    <lastmod>2026-03-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- README -->
+  <url>
+    <loc>https://github.com/BlackRoad-Foundation/governance/blob/master/README.md</loc>
+    <lastmod>2026-03-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Governance -->
+  <url>
+    <loc>https://github.com/BlackRoad-Foundation/governance/blob/master/GOVERNANCE.md</loc>
+    <lastmod>2026-03-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Contributing -->
+  <url>
+    <loc>https://github.com/BlackRoad-Foundation/governance/blob/master/CONTRIBUTING.md</loc>
+    <lastmod>2026-03-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Traffic Light System -->
+  <url>
+    <loc>https://github.com/BlackRoad-Foundation/governance/blob/master/TRAFFIC_LIGHT_SYSTEM.md</loc>
+    <lastmod>2026-03-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- BlackRoad Emoji Dictionary -->
+  <url>
+    <loc>https://github.com/BlackRoad-Foundation/governance/blob/master/BLACKROAD_EMOJI_DICTIONARY.md</loc>
+    <lastmod>2026-03-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- /rfcs directory -->
+  <url>
+    <loc>https://github.com/BlackRoad-Foundation/governance/tree/master/rfcs</loc>
+    <lastmod>2026-03-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://github.com/BlackRoad-Foundation/governance/blob/master/rfcs/DECISIONS.md</loc>
+    <lastmod>2026-03-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://github.com/BlackRoad-Foundation/governance/blob/master/rfcs/RFC-0001-template.md</loc>
+    <lastmod>2026-03-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://github.com/BlackRoad-Foundation/governance/blob/master/rfcs/RFC-0002-agent-communication.md</loc>
+    <lastmod>2026-03-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://github.com/BlackRoad-Foundation/governance/blob/master/rfcs/RFC-0003-memory-persistence.md</loc>
+    <lastmod>2026-03-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://github.com/BlackRoad-Foundation/governance/blob/master/rfcs/RFC-0004-world-generation-protocol.md</loc>
+    <lastmod>2026-03-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- /src directory -->
+  <url>
+    <loc>https://github.com/BlackRoad-Foundation/governance/tree/master/src</loc>
+    <lastmod>2026-03-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://github.com/BlackRoad-Foundation/governance/blob/master/src/agent_message.py</loc>
+    <lastmod>2026-03-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://github.com/BlackRoad-Foundation/governance/blob/master/src/crm.py</loc>
+    <lastmod>2026-03-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://github.com/BlackRoad-Foundation/governance/blob/master/src/notion_client.py</loc>
+    <lastmod>2026-03-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://github.com/BlackRoad-Foundation/governance/blob/master/src/proposal_tracker.py</loc>
+    <lastmod>2026-03-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- /adapters directory -->
+  <url>
+    <loc>https://github.com/BlackRoad-Foundation/governance/tree/master/adapters</loc>
+    <lastmod>2026-03-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://github.com/BlackRoad-Foundation/governance/blob/master/adapters/hubspot.py</loc>
+    <lastmod>2026-03-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://github.com/BlackRoad-Foundation/governance/blob/master/adapters/netsuite.py</loc>
+    <lastmod>2026-03-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://github.com/BlackRoad-Foundation/governance/blob/master/adapters/salesforce.py</loc>
+    <lastmod>2026-03-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://github.com/BlackRoad-Foundation/governance/blob/master/adapters/sap.py</loc>
+    <lastmod>2026-03-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- /tests directory -->
+  <url>
+    <loc>https://github.com/BlackRoad-Foundation/governance/tree/master/tests</loc>
+    <lastmod>2026-03-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://github.com/BlackRoad-Foundation/governance/blob/master/tests/test_adapters.py</loc>
+    <lastmod>2026-03-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+</urlset>
