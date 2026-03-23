@@ -1,5 +1,13 @@
 # governance
 
+> Governance documents and decision-making processes
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem — [BlackRoad-Foundation](https://github.com/BlackRoad-Foundation)
+
+---
+
+# governance
+
 Governance documents and decision-making processes
 
 **BlackRoad-Foundation** — Community — CRM, events
